@@ -117,3 +117,8 @@ div.info::first-letter {
         color: orangered;
     }
 }
+
+/* make a responsive */
+@media screen and (max-width: 768px ) {
+    
+}
